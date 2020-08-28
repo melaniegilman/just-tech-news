@@ -1,6 +1,6 @@
 //MODELS>>>
-const User = require("./User");
-const Post = require("./Post");
+const User = require("./User2");
+const Post = require("./Post2");
 const Vote = require('./Vote');
 const Comment = require('./Comment');
 
